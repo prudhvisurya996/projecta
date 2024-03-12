@@ -1,1 +1,2 @@
-# projecta
+THis is a Java project 
+
